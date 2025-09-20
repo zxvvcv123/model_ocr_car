@@ -1,0 +1,9 @@
+/datasets
+/dataraw
+/events
+/images_all
+/labels_after_xml
+/labes_all
+
+*.zip
+*.txt
